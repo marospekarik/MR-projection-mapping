@@ -1,2 +1,2 @@
-# in-pulse
-Files for the mixed reality performance on AAU exhibition
+# Mixed-reality projection mapping
+Files for the mixed-reality audio visual performance at AAU Art and Tech exhibition
